@@ -1,0 +1,6 @@
+LIBRARY
+EXPORTS
+	AddFunc
+	DivFunc
+	SubFunc
+	ProFunc
