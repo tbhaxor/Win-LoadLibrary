@@ -39,5 +39,6 @@ usage: DLLLoad.exe <x> <y> <add|div|prod|sub>
 
 ## Contact Me
 
-+ Linkedin: https://linkedin.com/in/gurkirat--singh
-+ Twitter: https://twitter.com/@tbhaxor
+Linkedin: `@tbhaxor` <br>
+Twitter: `@tbhaxor` <br>
+Email: tbhaxor _dot_ proton _dot_ me
